@@ -1,2 +1,2 @@
-#!/etc/environment
+#!/bin/bash
 export BEST="School"
